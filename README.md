@@ -27,6 +27,11 @@ Welcome to my GitHub profile! I'm a graduate of the ALX Software Engineering Pro
 ## 📈 GitHub Stats
 
 ![Ramy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramyrashad127&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyrashad127&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramyrashad127&theme=radical)
 
 ## 📫 Connect With Me
 
