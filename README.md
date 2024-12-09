@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a graduate of the ALX Software Engineering Pro
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, JavaScript (ES6), SQL
+- **Languages:** Python, JavaScript (ES6), SQL, c++, c, java
 - **Frameworks:** Flask, Django
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Tools & Platforms:** GitHub, Visual Studio Code, Ubuntu, Docker
