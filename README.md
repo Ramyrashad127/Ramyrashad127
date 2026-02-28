@@ -25,10 +25,6 @@ Welcome to my GitHub profile! I'm a Communication and Electronics Engineering st
 - **Cloud & DevOps:** VPS Hosting (DigitalOcean, Netcup, GCP), Docker, Linux/Ubuntu
 - **Hardware & IoT:** ESP32, Sensor Integration, Drone Technology
 
-## 📈 GitHub Stats
-
-![Ramy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramyrashad127&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyrashad127&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
