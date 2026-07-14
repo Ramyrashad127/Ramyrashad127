@@ -20,7 +20,7 @@
 
 I love diving deep into backend system architecture, database optimization, and deploying applications using modern cloud and containerization tools. I'm always looking for the next challenge to expand my skill set!
 
-- 🎓 **Advanced Training:** Proud graduate of the Digital Egypt Pioneers Initiative (DEPI) as a Full-Stack .NET Developer, where I sharpened my enterprise-level skills.
+- 🎓 **Advanced Training:** Graduate of the **ALX Software Engineering** program and the Digital Egypt Pioneers Initiative (**DEPI**) as a Full-Stack .NET Developer, building a strong foundation in enterprise systems and software architecture.
 - ⚙️ **.NET Focus:** Deepening my knowledge in **C#**, **ASP.NET Core**, **Entity Framework Core**, and asynchronous programming patterns.
 - 🗄️ **Database Architecture:** Practicing complex T-SQL queries, CTEs, and Microsoft SQL Server optimization.
 - ☁️ **Cloud & DevOps:** Actively working with **Docker** for containerization, managing Linux/Ubuntu environments, and deploying to VPS cloud hosting (DigitalOcean, GCP, Netcup).
@@ -62,5 +62,5 @@ I love diving deep into backend system architecture, database optimization, and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramy-rashad&show_icons=true&theme=radical" alt="Ramy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramyrashad127&show_icons=true&theme=radical" alt="Ramy's GitHub Stats" />
 </p>
