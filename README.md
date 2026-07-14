@@ -1,37 +1,66 @@
-# Hi, I'm Ramy Rashad 👋
+<h1 align="center">Hi there, I'm Ramy Rashad 👋</h1>
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack .NET Developer who loves building efficient applications and continuously learning new technologies. My core focus is on backend system architecture, database optimization, and deploying applications using modern cloud and containerization tools.
+<h3 align="center">A passionate Full-Stack .NET Developer continuously learning, building scalable apps, and exploring cloud technologies.</h3>
 
-## 🌐 Connect & Portfolio
-
-- **Portfolio:** [eng-ramyrashad.pages.dev](https://eng-ramyrashad.pages.dev/)
-- **LinkedIn:** [Ramy Rashad](https://www.linkedin.com/in/ramy-rashad-952012281/)
-- **Email:** [ramy41599@gmail.com](mailto:ramy41599@gmail.com)
+<p align="center">
+  <a href="https://eng-ramyrashad.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ramy-rashad-952012281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ramy41599@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🌱 **Continuous Learning:** Expanding my enterprise development skills as a Full-Stack .NET Developer Trainee at the Digital Egypt Pioneers Initiative (DEPI).
-- ⚙️ **.NET Development:** Deepening my knowledge in C#, ASP.NET Core, Entity Framework Core, and asynchronous programming patterns.
+I love diving deep into backend system architecture, database optimization, and deploying applications using modern cloud and containerization tools. I'm always looking for the next challenge to expand my skill set!
+
+- 🌱 **Always Learning:** Currently sharpening my enterprise development skills as a Full-Stack .NET Developer Trainee at the Digital Egypt Pioneers Initiative (DEPI).
+- ⚙️ **.NET Focus:** Deepening my knowledge in **C#**, **ASP.NET Core**, **Entity Framework Core**, and asynchronous programming patterns.
 - 🗄️ **Database Architecture:** Practicing complex T-SQL queries, CTEs, and Microsoft SQL Server optimization.
 - ☁️ **Cloud & DevOps:** Actively working with **Docker** for containerization, managing Linux/Ubuntu environments, and deploying to VPS cloud hosting (DigitalOcean, GCP, Netcup).
-- 🧠 **Projects & Integration:** Developed the backend for a Smart Sorting Bin, integrating a MobileNetV2 image classification model (via ONNX runtime) with a local .NET API.
+- 🧠 **Projects & Integration:** Developed the backend for a Smart Sorting Bin, bridging a MobileNetV2 image classification model (via ONNX runtime) directly to a local .NET API.
 - 🏆 **Milestones:** Won 1st place in the Code Masters Hackathon at Creativa.
-- 👯 **Looking to Collaborate On:** .NET backend architecture, scalable APIs, and system integration projects to keep growing my skills.
+- 👯 **Let's Collaborate:** I'm open to collaborating on .NET backend architecture, scalable APIs, and system integration projects.
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-**Backend & Frameworks**  
-`C#` `ASP.NET Core` `.NET Core` `Entity Framework Core` `ADO.NET` `RESTful APIs`
+<div align="center">
+  
+  **Backend & Frameworks**<br>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET-1478CB?style=for-the-badge&logo=eon&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <br><br>**Databases**<br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  
+  <br><br>**Cloud & DevOps**<br>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  
+  <br><br>**Frontend**<br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
-**Cloud, DevOps & Architecture**  
-`Docker` `Linux / Ubuntu` `VPS Hosting (DigitalOcean, GCP)` 
+</div>
 
-**Databases**  
-`Microsoft SQL Server` `T-SQL` `Redis` 
+---
 
-**Frontend & Fundamentals**  
-`JavaScript` `HTML5` `CSS3` `Bootstrap` `C++` `C`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramy-rashad&show_icons=true&theme=radical" alt="Ramy's GitHub Stats" />
+</p>
