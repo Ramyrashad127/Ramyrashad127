@@ -62,5 +62,5 @@ I love diving deep into backend system architecture, database optimization, and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramyrashad127&show_icons=true&theme=radical" alt="Ramy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramyrashad127&theme=radical" alt="Ramy's GitHub Streak" />
 </p>
