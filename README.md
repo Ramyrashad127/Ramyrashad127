@@ -1,31 +1,37 @@
 # Hi, I'm Ramy Rashad 👋
 
-Welcome to my GitHub profile! I'm a Communication and Electronics Engineering student, the Tech Lead & Co-founder at SoftAware, and a passionate Full-Stack .NET Developer. I love building efficient, scalable applications, designing robust databases, and integrating software with hardware.
+Welcome to my GitHub profile! I'm a passionate Full-Stack .NET Developer who loves building efficient applications and continuously learning new technologies. My core focus is on backend system architecture, database optimization, and deploying applications using modern cloud and containerization tools.
+
+## 🌐 Connect & Portfolio
+
+- **Portfolio:** [eng-ramyrashad.pages.dev](https://eng-ramyrashad.pages.dev/)
+- **LinkedIn:** [Ramy Rashad](https://www.linkedin.com/in/ramy-rashad-952012281/)
+- **Email:** [ramy41599@gmail.com](mailto:ramy41599@gmail.com)
+
+---
 
 ## 🚀 About Me
 
-- 🎓 **Education & Training:** Currently studying at Port Said University and sharpening my enterprise skills as a Full-Stack .NET Developer Trainee at the Digital Egypt Pioneers Initiative (DEPI).
-- 🌱 **I’m currently focusing on:** - **Advanced C# & .NET:** ASP.NET Core, Entity Framework, LINQ, and asynchronous programming.
-  - **Database Architecture:** Complex T-SQL queries, CTEs, and SQL Server optimization.
-  - **Cloud & Deployment:** VPS hosting, server management (DigitalOcean), and Docker.
-- 🛠️ **What I'm building:** - An **Inventory & Sales Management System**.
-  - **AGames**: An aggregator application with a complete backend API and admin dashboard.
-  - **Smart Sorting Bin**: My graduation project integrating Computer Vision (OpenCV, YOLO) to classify and sort materials.
+- 🌱 **Continuous Learning:** Expanding my enterprise development skills as a Full-Stack .NET Developer Trainee at the Digital Egypt Pioneers Initiative (DEPI).
+- ⚙️ **.NET Development:** Deepening my knowledge in C#, ASP.NET Core, Entity Framework Core, and asynchronous programming patterns.
+- 🗄️ **Database Architecture:** Practicing complex T-SQL queries, CTEs, and Microsoft SQL Server optimization.
+- ☁️ **Cloud & DevOps:** Actively working with **Docker** for containerization, managing Linux/Ubuntu environments, and deploying to VPS cloud hosting (DigitalOcean, GCP, Netcup).
+- 🧠 **Projects & Integration:** Developed the backend for a Smart Sorting Bin, integrating a MobileNetV2 image classification model (via ONNX runtime) with a local .NET API.
 - 🏆 **Milestones:** Won 1st place in the Code Masters Hackathon at Creativa.
-- 👯 **I’m looking to collaborate on:** .NET backend architecture, scalable APIs, and computer vision applications.
-- 📫 **How to reach me:**
-  - Email: [ramy41599@gmail.com](mailto:ramy41599@gmail.com)
-  - LinkedIn: [Ramy Rashad](https://www.linkedin.com/in/ramy-rashad-952012281/)
+- 👯 **Looking to Collaborate On:** .NET backend architecture, scalable APIs, and system integration projects to keep growing my skills.
+
+---
 
 ## 💻 Tech Stack
 
-- **Languages:** C#, T-SQL, Python, C++, C, JavaScript
-- **Frameworks & Libraries:** .NET, ASP.NET Core, Entity Framework, ADO.NET, Django, OpenCV
-- **Databases:** SQL Server, PostgreSQL, MySQL, Redis
-- **Cloud & DevOps:** VPS Hosting (DigitalOcean, Netcup, GCP), Docker, Linux/Ubuntu
-- **Hardware & IoT:** ESP32, Sensor Integration, Drone Technology
+**Backend & Frameworks**  
+`C#` `ASP.NET Core` `.NET Core` `Entity Framework Core` `ADO.NET` `RESTful APIs`
 
+**Cloud, DevOps & Architecture**  
+`Docker` `Linux / Ubuntu` `VPS Hosting (DigitalOcean, GCP)` 
 
-## 📫 Connect With Me
+**Databases**  
+`Microsoft SQL Server` `T-SQL` `Redis` 
 
-- LinkedIn: [https://www.linkedin.com/in/ramy-rashad-952012281/](https://www.linkedin.com/in/ramy-rashad-952012281/)
+**Frontend & Fundamentals**  
+`JavaScript` `HTML5` `CSS3` `Bootstrap` `C++` `C`
