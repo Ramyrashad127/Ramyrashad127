@@ -20,7 +20,7 @@
 
 I love diving deep into backend system architecture, database optimization, and deploying applications using modern cloud and containerization tools. I'm always looking for the next challenge to expand my skill set!
 
-- 🌱 **Always Learning:** Currently sharpening my enterprise development skills as a Full-Stack .NET Developer Trainee at the Digital Egypt Pioneers Initiative (DEPI).
+- 🎓 **Advanced Training:** Proud graduate of the Digital Egypt Pioneers Initiative (DEPI) as a Full-Stack .NET Developer, where I sharpened my enterprise-level skills.
 - ⚙️ **.NET Focus:** Deepening my knowledge in **C#**, **ASP.NET Core**, **Entity Framework Core**, and asynchronous programming patterns.
 - 🗄️ **Database Architecture:** Practicing complex T-SQL queries, CTEs, and Microsoft SQL Server optimization.
 - ☁️ **Cloud & DevOps:** Actively working with **Docker** for containerization, managing Linux/Ubuntu environments, and deploying to VPS cloud hosting (DigitalOcean, GCP, Netcup).
