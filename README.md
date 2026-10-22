@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Dynamic Waving Header with Midnight Indigo & Slate Tech Gradient -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,35:1e1b4b,70:312e81,100:0f172a&height=210&section=header&text=Ramy%20Rashad&fontSize=50&fontColor=ffffff&desc=Software%20Engineer&descAlignY=66&descSize=22&descColor=60a5fa&animation=fadeIn" alt="Ramy Rashad - Software Engineer" />
+  <!-- Animated Dynamic Waving Header with TokyoNight Dark Theme (Deep Navy & Slate) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=210&section=header&text=Ramy%20Rashad&fontSize=50&fontColor=ffffff&desc=Software%20Engineer&descAlignY=66&descSize=22&descColor=7aa2f7&animation=fadeIn" alt="Ramy Rashad - Software Engineer" />
 
   <h2>Hi there, I'm Ramy Rashad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"></h2>
 
@@ -24,8 +24,6 @@
   </p>
 
 </div>
-
----
 
 ### 💡 About Me
 
@@ -85,5 +83,5 @@ I am always open to discussing software engineering opportunities, architecture 
 
 <div align="center">
   <!-- Animated Dynamic Waving Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,35:312e81,70:1e1b4b,100:0f172a&height=100&section=footer" alt="Footer Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=100&section=footer" alt="Footer Banner" />
 </div>
