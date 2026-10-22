@@ -1,13 +1,15 @@
 <div align="center">
 
-  # Hi there, I'm Ramy Rashad 👋
+  <!-- Animated Dynamic Waving Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10b981,3b82f6&height=190&section=header&text=Ramy%20Rashad&fontSize=46&fontColor=ffffff&desc=Software%20Engineer&descAlignY=68&descSize=20&animation=fadeIn" alt="Header Banner" />
 
+  <!-- Animated Typing SVG - Simple Identity & Mindset -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=620&lines=Software+Engineer;Backend+.NET+Developer;Clean+Architecture+%7C+High-Performance+APIs;Linux+VPS+%E2%80%A2+Docker+%E2%80%A2+Relational+DBs+%E2%80%A2+Redis;Prometheus+%26+Grafana+%E2%80%A2+k6+%E2%80%A2+Unit+Testing;Algorithmic+Problem+Solver+%7C+AI-Augmented" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1400&color=22C55E&center=true&vCenter=true&width=550&lines=Software+Engineer;Analytical+Problem+Solver;Architecting+Reliable+Systems;Driven+by+Clean+Code+%26+Performance;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Crafting scalable, high-throughput enterprise systems with .NET, robust relational data architectures, and containerized VPS environments.</strong>
+    <strong>A dedicated Software Engineer passionate about solving complex problems, engineering scalable backend architectures, and crafting high-impact digital solutions.</strong>
   </p>
 
   <p align="center">
@@ -20,26 +22,24 @@
     <a href="mailto:ramy41599@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/Ramyrashad127">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=Ramyrashad127&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 💼 Executive Summary & Core Strengths
+### 💼 About Me
 
-I am a results-driven **Software Engineer** specializing in **.NET backend ecosystems**, enterprise data layers, and production Linux environments. With rigorous engineering training through the **ALX Software Engineering Program** and the **Digital Egypt Pioneers Initiative (DEPI)**, I bring a balance of deep low-level computer science fundamentals and modern high-level application architecture.
+I am a **Software Engineer** with a solid foundation in computer science and practical experience building scalable backend services, optimizing data persistence, and managing containerized systems. Trained through the **ALX Software Engineering Program** and the **Digital Egypt Pioneers Initiative (DEPI)**, I combine algorithmic depth with modern enterprise architecture.
 
-- ⚙️ **.NET & Backend Architecture:** Experienced in building RESTful Web APIs and scalable microservices using **C#**, **.NET 8/9**, **ASP.NET Core**, **Entity Framework Core**, and LINQ. Proficient in applying **Clean Architecture**, **SOLID principles**, repository patterns, and dependency injection.
-- 🗄️ **Relational Databases & In-Memory Caching:** Skilled in designing normalized database schemas, authoring complex queries (CTEs, subqueries, indexing), and tuning performance across **Microsoft SQL Server**, **MySQL**, and **PostgreSQL**. Proficient in eliminating bottlenecks with **Redis** in-memory caching and session management.
-- 🐳 **DevOps, Linux & VPS Deployment:** Hands-on experience containerizing services with **Docker** & **Docker Compose**, administering production **Linux (Ubuntu/Debian) VPS** environments, configuring **Nginx** reverse proxies, and orchestrating reliable deployments.
-- 📈 **Testing, Monitoring & Observability:** Strong commitment to system resilience via automated **Unit Testing (xUnit, NUnit, Moq)**, load & performance benchmarking with **k6**, and full-stack observability with **Prometheus** metrics collection and **Grafana** visualization dashboards.
-- 🧩 **Analytical Problem Solving:** Strong algorithmic foundation with hands-on mastery in C, memory management, pointers, dynamic programming, and data structures (Binary Trees, Sorting Algorithms, Graphs).
-- 🤖 **AI-Augmented Engineering:** Adept at utilizing modern AI developer assistants, prompt engineering, and LLM-assisted workflows to accelerate code delivery, architect resilient systems, and ensure high test coverage.
-- 🏆 **Hackathon Winner:** Awarded **1st Place** at the *Code Masters Hackathon* (Creativa) for developing an innovative AI-integrated IoT backend system.
+- ⚙️ **Backend Engineering:** Designing and implementing high-availability RESTful APIs and distributed systems using **C#**, **.NET 8/9**, **ASP.NET Core**, and **Entity Framework Core**, guided by **Clean Architecture** and **SOLID principles**.
+- 🗄️ **Relational Databases & Caching:** Architecting normalized relational data models and optimizing query execution in **Microsoft SQL Server**, **MySQL**, and **PostgreSQL**, with sub-millisecond in-memory caching powered by **Redis**.
+- 🐳 **DevOps, Linux & VPS:** Containerizing modular applications with **Docker** & **Docker Compose**, managing production **Linux (Ubuntu/Debian) VPS** servers, and configuring **Nginx** reverse proxies.
+- 📈 **Testing & Observability:** Enforcing code reliability with **Unit Testing (xUnit, NUnit, Moq)**, running performance and stress testing with **k6**, and instrumenting real-time monitoring dashboards with **Prometheus** and **Grafana**.
+- 🧩 **Analytical Problem Solving:** Strong algorithmic intuition and memory discipline rooted in low-level C programming, dynamic programming, and advanced data structures.
+- 🤖 **AI-Augmented Development:** Leveraging modern AI tools, prompt engineering, and LLM-driven workflows to accelerate engineering velocity, architectural design, and test coverage.
+- 🏆 **Hackathon Winner:** Awarded **1st Place** at the *Code Masters Hackathon* (Creativa) for an AI-integrated IoT backend system.
 
 ---
 
@@ -60,16 +60,16 @@ I am a results-driven **Software Engineer** specializing in **.NET backend ecosy
 
 ---
 
-### 🌟 Featured Highlights & Engineering Projects
+### 🌟 Featured Engineering Projects
 
 - **Smart Sorting Bin (Backend & ML Integration)**  
-  *Winner of 1st Place at Creativa Code Masters Hackathon.* Developed the backend architecture bridging edge hardware and a computer vision classification model (MobileNetV2 via ONNX runtime) with an asynchronous .NET Core API.
+  *1st Place Winner at Creativa Code Masters Hackathon.* Built an asynchronous .NET Core API bridging hardware inputs and a computer vision model (MobileNetV2 via ONNX runtime) for automated waste classification.
 - **AirBnB Clone (HBnB) - Dynamic Distributed Platform**  
-  Built a full-stack platform featuring dual storage engines (SQLAlchemy ORM + JSON), dynamic single-page web rendering with jQuery and AJAX, RESTful API endpoints, and automated server deployment using Fabric and Nginx.
+  Full-stack web application featuring dual storage engines (SQLAlchemy ORM + JSON), dynamic AJAX front-end rendering, RESTful API endpoints, and automated server deployment via Fabric and Nginx.
 - **UNIX Command Line Interpreter (`hsh`)**  
-  Engineered a custom POSIX-compliant UNIX shell in C featuring interactive/non-interactive input parsing, environment path lookup, process management (`fork`, `execve`, `waitpid`), command sequencing (`;`), and zero memory leaks verified with Valgrind.
-- **Enterprise C# & .NET Solutions**  
-  Constructed secure, high-throughput REST APIs featuring JWT authentication, role-based access control (RBAC), EF Core migrations, Redis caching, and metric instrumentation with Prometheus & Grafana.
+  POSIX-compliant command interpreter written in C implementing process control (`fork`, `execve`, `waitpid`), PATH resolution, built-in commands, and zero memory leaks verified with Valgrind.
+- **Enterprise .NET Web APIs**  
+  High-throughput RESTful services with JWT authentication, role-based access control (RBAC), EF Core migrations, Redis caching, and metric instrumentation with Prometheus and Grafana.
 
 ---
 
@@ -88,8 +88,13 @@ I am a results-driven **Software Engineer** specializing in **.NET backend ecosy
 
 ### 🤝 Let's Connect!
 
-I am actively open to **Software Engineer** and **.NET Backend Developer** opportunities, technical collaborations, and innovative engineering challenges.
+I am always open to exploring **Software Engineering** opportunities, technical collaborations, and innovative engineering challenges.
 
 - 🌐 **Portfolio:** [eng-ramyrashad.pages.dev](https://eng-ramyrashad.pages.dev/)
 - 💼 **LinkedIn:** [linkedin.com/in/ramy-rashad-952012281](https://www.linkedin.com/in/ramy-rashad-952012281/)
 - 📧 **Direct Email:** [ramy41599@gmail.com](mailto:ramy41599@gmail.com)
+
+<div align="center">
+  <!-- Animated Dynamic Waving Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3b82f6,10b981&height=90&section=footer" alt="Footer Banner" />
+</div>
